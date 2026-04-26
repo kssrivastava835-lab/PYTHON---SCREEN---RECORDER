@@ -1,5 +1,5 @@
 # PYTHON---SCREEN---RECORDER
-A lightweight Python-based screen recorder that captures real-time screen activity using OpenCV and PyAutoGUI, saves recordings in MP4 format, and includes automatic window minimization using Win32 APIs 
+A lightweight Python-based screen recorder that captures real-time screen activity using OpenCV and PyAutoGUI, saves recordings in MP4 format, and include automatic window minimization using Win32 APIs 
 - Python Screen Recorder
 
 A lightweight and efficient **screen recording tool built using Python**, capable of capturing real-time screen activity and saving it as a video file. This project combines **computer vision, automation, and system-level control** to deliver a simple yet functional screen recorder.
